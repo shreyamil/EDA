@@ -26,8 +26,4 @@ Screenshots of important plots (generated in `plots/`):
 - **Sex and region** show only small differences in mean charges.  
 - Distribution of charges is **right-skewed** with outliers.
 
-## 🚀 How to Run
-Clone/download the repo and run either:
-```bash
-# run script
-python eda_script.py
+https://colab.research.google.com/drive/15kGFP6v5VTCiMEuuL8622xx3CJRuH-KX?usp=sharing
