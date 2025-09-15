@@ -1,0 +1,10 @@
+Dataset shape: (1338, 7)
+
+Main insights:
+1. Smoker status is the strongest driver of charges:
+   - Smokers: ~32,050 vs Non-smokers: ~8,434
+2. Age moderately correlates with charges (corr ≈ 0.30).
+3. BMI weakly correlates (corr ≈ 0.20); >52% are obese (BMI ≥ 30).
+4. Number of children has very little effect (corr ≈ 0.07).
+5. Mean charges differ slightly by sex and region.
+6. Charges distribution is highly skewed with extreme outliers.
